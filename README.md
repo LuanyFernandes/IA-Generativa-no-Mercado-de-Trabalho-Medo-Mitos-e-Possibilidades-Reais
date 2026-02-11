@@ -18,8 +18,7 @@ Artigos acadêmicos sobre Inteligência Artificial generativa
 Relatórios sobre automação e empregabilidade
 Textos e publicações sobre transformação digital no trabalho
 Vídeos do youtube segue alguns links: 
-https://youtu.be/NIuxQQSIZFk?list=TLGG6amATFCIEXYxMTAyMjAyNg
-https://youtu.be/C38xlWnkezQ?list=TLGGc3xcMow4eOkxMTAyMjAyNg
+
 1. IMF chief warns AI hitting labor markets 'like a tsunami' - Perplexity, https://www.perplexity.ai/page/ai-impact-on-jobs-debated-as-l-_a7uZvVcQmWh3CsTzWfkbA
 2. Gen-AI: Artificial Intelligence and the Future of Work - International Monetary Fund, https://www.imf.org/-/media/files/publications/sdn/2024/english/sdnea2024001.pdf
 3. 70+ Stats On AI Replacing Jobs (2026) - Exploding Topics, https://explodingtopics.com/blog/ai-replacing-jobs
@@ -53,3 +52,7 @@ https://youtu.be/C38xlWnkezQ?list=TLGGc3xcMow4eOkxMTAyMjAyNg
 31. The impact of generative AI on academic reading and writing: a synthesis of recent evidence (2023–2025) - Frontiers, https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2025.1711718/full
 32. Shaping the Future of Work: Generative AI, Inequality, and Opportunity - Social Finance, https://socialfinance.org/insight/shaping-the-future-of-work-generative-ai-inequality-and-opportunity/
 33. New Skills and AI Are Reshaping the Future of Work, https://www.imf.org/en/blogs/articles/2026/01/14/new-skills-and-ai-are-reshaping-the-future-of-work
+34. https://youtu.be/NIuxQQSIZFk?list=TLGG6amATFCIEXYxMTAyMjAyNg
+35. https://youtu.be/C38xlWnkezQ?list=TLGGc3xcMow4eOkxMTAyMjAyNg
+36. https://youtu.be/D2KIu_yDeJk?list=TLGGrQVKHF4gXTAxMTAyMjAyNg
+37. https://youtu.be/62Mgrm0o0JM?list=TLGG_z0l3veCWLgxMTAyMjAyNg
