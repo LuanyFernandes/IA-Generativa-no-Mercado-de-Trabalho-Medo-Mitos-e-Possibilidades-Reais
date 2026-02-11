@@ -52,8 +52,7 @@ Vídeos do youtube segue alguns links:
 31. The impact of generative AI on academic reading and writing: a synthesis of recent evidence (2023–2025) - Frontiers, https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2025.1711718/full
 32. Shaping the Future of Work: Generative AI, Inequality, and Opportunity - Social Finance, https://socialfinance.org/insight/shaping-the-future-of-work-generative-ai-inequality-and-opportunity/
 33. New Skills and AI Are Reshaping the Future of Work, https://www.imf.org/en/blogs/articles/2026/01/14/new-skills-and-ai-are-reshaping-the-future-of-work
-34. 
-Estudo mostra impactos da inteligência artificial no mercado de trabalho, https://youtu.be/NIuxQQSIZFk?list=TLGG6amATFCIEXYxMTAyMjAyNg
-35. https://youtu.be/C38xlWnkezQ?list=TLGGc3xcMow4eOkxMTAyMjAyNg
-36. https://youtu.be/D2KIu_yDeJk?list=TLGGrQVKHF4gXTAxMTAyMjAyNg
-37. https://youtu.be/62Mgrm0o0JM?list=TLGG_z0l3veCWLgxMTAyMjAyNg
+34. Estudo mostra impactos da inteligência artificial no mercado de trabalho, https://youtu.be/NIuxQQSIZFk?list=TLGG6amATFCIEXYxMTAyMjAyNg/
+35. Como a IA vai mudar tudo (inclusive você) | Miguel Fernandes | TEDxSaoPaulo, https://youtu.be/C38xlWnkezQ?list=TLGGc3xcMow4eOkxMTAyMjAyNg/
+36. Fantástico: Futuro das inteligências artificiais e os perigos para a humanidade, https://youtu.be/D2KIu_yDeJk?list=TLGGrQVKHF4gXTAxMTAyMjAyNg/
+37. Por que o mercado de trabalho está à beira do COLAPSO?, https://youtu.be/62Mgrm0o0JM?list=TLGG_z0l3veCWLgxMTAyMjAyNg/
