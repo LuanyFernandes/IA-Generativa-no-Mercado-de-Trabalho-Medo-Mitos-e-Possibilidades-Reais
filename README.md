@@ -1,4 +1,4 @@
-#  Análise do Impacto da Inteligência Artificial no Mercado de Trabalho
+#  IA Generativa no Mercado de Trabalho: Medo, Mitos e Possibilidades Reais
 
 ##  Objetivo do Projeto
 
