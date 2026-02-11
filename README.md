@@ -84,3 +84,12 @@ O impacto real dependerá de:
 
 A IA surge como ferramenta de ampliação da produtividade, mas exige adaptação contínua e desenvolvimento de novas competências.
 
+## 📸 Evidências do Uso do NotebookLM
+
+![Fontes utilizadas](images/print1-das-fontes)  
+![Fontes utilizadas](images/print2-das-fontes-)
+![Fontes utilizadas](images/print3-das-fontes-) 
+![Fontes utilizadas](images/print4-das-fontes-)
+![Fontes utilizadas](images/print5-das-fontes-)  
+
+
