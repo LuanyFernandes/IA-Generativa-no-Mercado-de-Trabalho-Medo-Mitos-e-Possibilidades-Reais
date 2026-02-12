@@ -1,6 +1,6 @@
 # Estratégia de Prompts Utilizada no NotebookLM
 
-## 🎯 Objetivo
+##  Objetivo
 
 Os prompts foram elaborados com o objetivo de analisar criticamente o impacto da Inteligência Artificial generativa no mercado de trabalho, utilizando múltiplas fontes acadêmicas e institucionais.
 
@@ -8,11 +8,11 @@ A estratégia buscou comparar dados, identificar convergências e divergências 
 
 ---
 
-## 🧠 Estrutura dos Prompts
+##  Estrutura dos Prompts
 
 Os prompts seguiram quatro eixos principais:
 
-### 1️⃣ Substituição ou Transformação de Empregos
+### 1️ Substituição ou Transformação de Empregos
 Pergunta:
 "A IA generativa tende a substituir empregos ou transformar funções? Quais fontes sustentam cada posição?"
 
@@ -21,7 +21,7 @@ Identificar se há consenso ou divergência entre instituições como IMF, Goldm
 
 ---
 
-### 2️⃣ Impacto no Curto ou Longo Prazo
+### 2️ Impacto no Curto ou Longo Prazo
 Pergunta:
 "Segundo os relatórios analisados, o impacto da IA será mais disruptivo no curto ou no longo prazo?"
 
@@ -30,7 +30,7 @@ Analisar projeções temporais e compreender se os efeitos são imediatos ou est
 
 ---
 
-### 3️⃣ Desigualdade entre Trabalhadores
+### 3️ Desigualdade entre Trabalhadores
 Pergunta:
 "A IA pode ampliar desigualdades entre trabalhadores qualificados e não qualificados?"
 
@@ -39,7 +39,7 @@ Investigar impactos sociais e riscos de polarização no mercado de trabalho.
 
 ---
 
-### 4️⃣ Crescimento Econômico
+### 4️ Crescimento Econômico
 Pergunta:
 "Como Wharton, Federal Reserve e OECD estimam o crescimento econômico relacionado à IA?"
 
@@ -48,7 +48,7 @@ Comparar estimativas de produtividade, crescimento do PIB e efeitos macroeconôm
 
 ---
 
-## 🔎 Estratégia Aplicada
+##  Estratégia Aplicada
 
 - Uso de perguntas comparativas entre múltiplas fontes
 - Solicitação de síntese baseada apenas nos documentos inseridos
