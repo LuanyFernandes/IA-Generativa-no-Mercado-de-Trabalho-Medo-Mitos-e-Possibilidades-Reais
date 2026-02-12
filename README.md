@@ -91,3 +91,18 @@ A IA surge como ferramenta de ampliação da produtividade, mas exige adaptaçã
 ![Fontes utilizadas](images/print3-prompts-e-respostas.png) 
 ![Fontes utilizadas](images/print4-prompts-e-respostas.png) 
 
+## 📄 Arquivos Adicionais
+
+Os documentos utilizados como base para análise estão disponíveis na pasta `/docs`:
+
+### 🔹 Substituição ou Transformação de Empregos
+- [IMF: Gen-AI - Artificial Intelligence and the Future of Work](docs/IMF_GenAI_FutureWork.pdf)
+- [Goldman Sachs: How Will AI Affect the Global Workforce?](docs/GoldmanSachs_AI_Workforce.pdf)
+- [Exploding Topics: 70+ Stats on AI Replacing Jobs](docs/ExplodingTopics_AI_Jobs_2026.pdf)
+
+### 🔹 Impacto no Curto ou Longo Prazo / Crescimento Econômico
+- [Federal Reserve: The Impact of Generative AI on Work Productivity](docs/FederalReserve_AI_Productivity.pdf)
+- [Wharton: The Projected Impact of Generative AI on Future Productivity Growth](docs/Wharton_Growth_2025.pdf)
+- [OECD: The Effects of Generative AI on Productivity, Innovation and Entrepreneurship](docs/OECD_AI_Productivity.pdf)
+
+
