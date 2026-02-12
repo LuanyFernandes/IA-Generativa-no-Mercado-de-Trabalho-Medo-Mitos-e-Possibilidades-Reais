@@ -57,6 +57,6 @@ Comparar estimativas de produtividade, crescimento do PIB e efeitos macroeconôm
 
 ---
 
-## 📌 Conclusão Metodológica
+##  Conclusão Metodológica
 
 A estratégia de prompts permitiu extrair respostas fundamentadas nos relatórios analisados, promovendo uma visão equilibrada sobre riscos, oportunidades e impactos estruturais da IA generativa no mercado de trabalho.
