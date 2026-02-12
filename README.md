@@ -106,6 +106,8 @@ Os documentos utilizados como base para análise estão disponíveis na pasta `/
 - [Federal Reserve: The Impact of Generative AI on Work Productivity](docs/FederalReserve_AI_Productivity.pdf)
 - [Wharton: The Projected Impact of Generative AI on Future Productivity Growth](docs/Wharton_Growth_2025.pdf)
 - [OECD: The Effects of Generative AI on Productivity, Innovation and Entrepreneurship](docs/OECD_AI_Productivity.pdf)
+## 📌 Estratégia de Prompts
 
-## A📌 estratégia detalhada de prompts está disponível em [prompts.md](prompts.md)
+A estratégia detalhada de prompts está disponível em [prompts.md](prompts.md).
+
 
