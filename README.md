@@ -93,6 +93,17 @@ A IA surge como ferramenta de ampliação da produtividade, mas exige adaptaçã
 ![Print 3](images/print3-prompts-e-respostas.png) 
 ![Print 4](images/print4-prompts-e-respostas.png) 
 
+## 📌 Contribuição do Projeto
+
+Este projeto demonstra:
+
+- Capacidade de análise crítica de múltiplas fontes
+- Comparação de dados econômicos complexos
+- Organização estruturada de documentação técnica
+- Uso estratégico de IA como ferramenta de pesquisa
+- Produção de síntese baseada em evidências
+
+
 ## 📌 Arquivos Adicionais
 
 Os documentos utilizados como base para análise estão disponíveis na pasta `/docs`:
