@@ -41,8 +41,6 @@ Foram utilizados relatórios e estudos de instituições internacionais, bancos 
 - Análises sobre Human-in-the-Loop e governança de IA  
 - Estudos sobre novas profissões impulsionadas por IA  
 
-*(Os links completos estão listados na documentação do projeto.)*
-
 ---
 
 ## 📌 Processo de Análise
