@@ -1,7 +1,8 @@
 # IA Generativa no Mercado de Trabalho: Medo, Mitos e Possibilidades Reais
 
 
-##  Objetivo do Projeto
+## 📌 Objetivo do Projeto
+
 
 Este projeto tem como objetivo analisar o impacto da Inteligência Artificial generativa no mercado de trabalho global, com base em relatórios econômicos, estudos acadêmicos e análises de mercado publicadas por instituições como IMF, OECD, Goldman Sachs, ILO, Yale, Wharton e J.P. Morgan.
 
@@ -9,7 +10,7 @@ A proposta é compreender se a IA representa ameaça, transformação ou oportun
 
 ---
 
-## Como utilizei o NotebookLM
+## 📌 Como utilizei o NotebookLM
 
 Utilizei o NotebookLM para:
 
@@ -23,7 +24,7 @@ A ferramenta foi essencial para consolidar informações complexas e extrair ins
 
 ---
 
-##  Fontes Utilizadas
+## 📌 Fontes Utilizadas
 
 Foram utilizados relatórios e estudos de instituições internacionais, bancos globais, centros de pesquisa e análises de mercado, incluindo:
 
@@ -44,7 +45,7 @@ Foram utilizados relatórios e estudos de instituições internacionais, bancos 
 
 ---
 
-##  Processo de Análise
+## 📌 Processo de Análise
 
 1. Inserção dos artigos e relatórios no NotebookLM  
 2. Formulação de perguntas estratégicas sobre:
@@ -59,7 +60,7 @@ Foram utilizados relatórios e estudos de instituições internacionais, bancos 
 
 ---
 
-##  Principais Resultados e Insights
+## 📌 Principais Resultados e Insights
 
 - A IA generativa tende a transformar mais empregos do que eliminá-los completamente.  
 - Países desenvolvidos podem ser mais impactados devido à maior exposição a funções cognitivas automatizáveis (IMF).  
@@ -72,7 +73,7 @@ Foram utilizados relatórios e estudos de instituições internacionais, bancos 
 
 ---
 
-##  Conclusão
+## 📌 Conclusão
 
 A análise das fontes indica que a Inteligência Artificial não representa um colapso imediato do mercado de trabalho, mas sim uma transformação estrutural profunda.
 
@@ -85,14 +86,14 @@ O impacto real dependerá de:
 
 A IA surge como ferramenta de ampliação da produtividade, mas exige adaptação contínua e desenvolvimento de novas competências.
 
-## 📸 Evidências do Uso do NotebookLM
+## 📌 Evidências do Uso do NotebookLM
 
 ![Fontes utilizadas](images/print1-prompts-e-respostas.png)  
 ![Fontes utilizadas](images/print2-prompts-e-respostas.png) 
 ![Fontes utilizadas](images/print3-prompts-e-respostas.png) 
 ![Fontes utilizadas](images/print4-prompts-e-respostas.png) 
 
-## 📄 Arquivos Adicionais
+## 📌 Arquivos Adicionais
 
 Os documentos utilizados como base para análise estão disponíveis na pasta `/docs`:
 
@@ -106,5 +107,5 @@ Os documentos utilizados como base para análise estão disponíveis na pasta `/
 - [Wharton: The Projected Impact of Generative AI on Future Productivity Growth](docs/Wharton_Growth_2025.pdf)
 - [OECD: The Effects of Generative AI on Productivity, Innovation and Entrepreneurship](docs/OECD_AI_Productivity.pdf)
 
-📄 A estratégia detalhada de prompts está disponível em [prompts.md](prompts.md)
+## A📌 estratégia detalhada de prompts está disponível em [prompts.md](prompts.md)
 
