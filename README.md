@@ -86,10 +86,8 @@ A IA surge como ferramenta de ampliação da produtividade, mas exige adaptaçã
 
 ## 📸 Evidências do Uso do NotebookLM
 
-![Fontes utilizadas](images/print1-das-fontes)  
-![Fontes utilizadas](images/print2-das-fontes-)
-![Fontes utilizadas](images/print3-das-fontes-) 
-![Fontes utilizadas](images/print4-das-fontes-)
-![Fontes utilizadas](images/print5-das-fontes-)  
-
+![Fontes utilizadas](images/print1-prompts-e-respostas.png)  
+![Fontes utilizadas](images/print2-prompts-e-respostas.png) 
+![Fontes utilizadas](images/print3-prompts-e-respostas.png) 
+![Fontes utilizadas](images/print4-prompts-e-respostas.png) 
 
